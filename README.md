@@ -7,7 +7,7 @@
 - 🚀 **SQL Server Expert:** focused on query optimization, performance analysis, and tuning of critical systems.
 - 🛠️ **.NET Developer:** solid experience in backend development, APIs, and integrations.
 - 📊 **Performance First:** I love identifying bottlenecks, refactoring processes, and maximizing application efficiency.
-- 💡 **Continuous learning:** currently exploring the Angular ecosystem to expand my skills in Full Stack projects. Studying Dapper and Flutter as well.
+- 💡 **Continuous learning:** currently exploring the Angular ecosystem to expand my skills in Full Stack projects. Studying React as well.
 
 ## 👨‍💻 Stack & Tools
 
